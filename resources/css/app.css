@@ -1,0 +1,13 @@
+.container-fluid {
+    max-height: 100px;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: grid;
+    place-content: center;
+}
